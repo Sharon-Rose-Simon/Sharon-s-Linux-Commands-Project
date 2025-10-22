@@ -21,3 +21,4 @@ This project demonstrates basic Linux terminal usage and scripting.
 - File handling with `cat`, `echo`, `>`, and `>>`
 
 # Screenshots: 
+![img_1_Linux](https://github.com/user-attachments/assets/b727d684-b5a2-44a9-9789-d17f4867c521)
